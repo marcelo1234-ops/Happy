@@ -324,7 +324,7 @@
           <h2>Tradução</h2>
           <p>Hoje é o seu dia, um dia muito especial.</p>
           <p>Você completou mais um ano de vida.</p>
-          <p>Mesmo que já não estejamos juntos e estejamos longe, eu me importo com você.</p>
+          <p>Mesmo que já não estejamos juntos e estejamos distantes, eu me importo com você.</p>
           <p>Você já foi uma parte da minha vida,</p>
           <p>aquele tempo foi o melhor da minha vida,</p>
           <p>e não sei como retribuir este presente.</p>
